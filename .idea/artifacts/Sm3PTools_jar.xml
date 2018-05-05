@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Sm3PTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sm3PTools_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Sm3PTools.jar">
+        <element id="module-output" name="Sm3PTools" />
+      </element>
+    </root>
+  </artifact>
+</component>
